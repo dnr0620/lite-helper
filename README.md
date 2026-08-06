@@ -2,3 +2,4 @@
 js project
 - `clamp` helper
 - `unique` helper
+- `clamp` helper
